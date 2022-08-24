@@ -1,0 +1,83 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1030551261	Player_Is_Outside			\World\Global\Misc\Player_Is_Outside	
+	2805152020	Player_Is_Inside			\World\Global\Misc\Player_Is_Inside	
+	3701245108	Play_StereoBed_Master			\World\Global\StereoBeds\Play_StereoBed_Master	
+	3854155799	Play_Footsteps			\PlayerSFX\Play_Footsteps	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	361622075	FootstepSwitch			\Player_Switches\FootstepSwitch	
+
+Switch	ID	Name	Switch Group			Notes
+	268523767	WoodPath	FootstepSwitch			
+	627471700	WoodFloorRotten	FootstepSwitch			
+	712897245	Mud	FootstepSwitch			
+	826104432	BridgeBig	FootstepSwitch			
+	841620460	Concrete	FootstepSwitch			
+	2185786256	Gravel	FootstepSwitch			
+	2195636714	Dirt	FootstepSwitch			
+	2637588553	Tile	FootstepSwitch			
+	2927316363	Moss	FootstepSwitch			
+	3111880208	WoodFloor	FootstepSwitch			
+	3999594623	BridgeSmall	FootstepSwitch			
+	4248645337	Grass	FootstepSwitch			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	145721553	Indoor_Outdoor			\World_States\Indoor_Outdoor	
+	3530926665	Zone_State			\World_States\Zone_State	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	Indoor_Outdoor			
+	669930569	Inside_Hall	Indoor_Outdoor			
+	748895195	None	Indoor_Outdoor			
+	1215237523	Inside_Manor	Indoor_Outdoor			
+	1379511336	Inside_OfficeBuilding	Indoor_Outdoor			
+	1592194961	Inside_Church	Indoor_Outdoor			
+	1960431119	Inside_BrickBuilding	Indoor_Outdoor			
+	1978035275	Inside_Cabin	Indoor_Outdoor			
+	2224442717	Inside_Asylum	Indoor_Outdoor			
+	2662993391	Inside_Greenhouse	Indoor_Outdoor			
+	2760249547	Inside_Barn	Indoor_Outdoor			
+	83065352	J_VillagePark	Zone_State			
+	233093088	C_FrontBayou	Zone_State			
+	379740444	I_VillageMain	Zone_State			
+	748895195	None	Zone_State			
+	795838972	D_MainStreet	Zone_State			
+	1127321912	N_School	Zone_State			
+	1322290778	M_ViridianForest	Zone_State			
+	1491759694	O_NatureReserve_Island	Zone_State			
+	1532058053	P_Asylum_Island	Zone_State			
+	1918129569	F_MainstreetManor	Zone_State			
+	2043055754	K_Manor_Island	Zone_State			
+	2134675750	G_SeasideShacks	Zone_State			
+	2451872362	H_GovernmentOffices	Zone_State			
+	2452388028	E_Church	Zone_State			
+	2610041010	A_StartingArea	Zone_State			
+	3769583171	B_SecretZone1	Zone_State			
+	4250780145	L_BackBayou	Zone_State			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	18489928	ply_Footsteps_Dirt_01_Mono_02	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_7E8B58F4.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_02		62508
+	247747455	amb_ST_BugBed_Z5_1m_03	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_BugBed_Z5_1m_03_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\5_Church\Z5_Outdoor\amb_ST_BugBed_Z5\amb_ST_BugBed_Z5_1m_03		620358
+	276558683	ply_Footsteps_Dirt_01_Mono_08	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_88E16366.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_08		57094
+	299016634	ply_Footsteps_Dirt_01_Mono_03	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_285F8EBA.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_03		49760
+	312080674	amb_ST_BugBed_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_BugBed_01_8BF35F2E.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\1_StartingArea\Z1_Outdoor\amb_ST_BugBed_01		1940876
+	346941170	amb_ST_BugBed_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_BugBed_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\4_MainStreet\Z4_Outdoor\amb_ST_BugBed_01		1940876
+	362284840	amb_ST_Z7_WindBed_1m_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_Z7_WindBed_1m_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\7_SeasideShacks\Z7_Outdoor\amb_ST_Z7_WindBed_1m_01		598308
+	385627533	amb_ST_Z6_WindBed_1m_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_Z6_WindBed_1m_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\6_MainStreetManor\Z6_Outdoor\amb_ST_Z6_WindBed_1m_01		594118
+	395042594	amb_ST_WindBedZ5_1m_02	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_WindBedZ5_1m_02_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\5_Church\Z5_Outdoor\amb_ST_WindBed_Z5\amb_ST_WindBedZ5_1m_02		881264
+	414918043	ply_Footsteps_Dirt_01_Mono_04	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_A1418C76.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_04		60480
+	475041374	ply_Footsteps_Dirt_01_Mono_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_0AAE1446.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_01		44462
+	476073778	ply_Footsteps_Dirt_01_Mono_09	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_B2FFFE9B.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_09		44364
+	494764820	ply_Footsteps_Dirt_01_Mono_05	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_5A076401.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_05		66460
+	553612521	amb_ST_WindBed_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_WindBed_01_8BF35F2E.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\1_StartingArea\Z1_Outdoor\amb_ST_WindBed_01		851348
+	603235011	amb_ST_Z6_BugBed_1m_02	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_Z6_BugBed_1m_02_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\6_MainStreetManor\Z6_Outdoor\amb_ST_Z6_BugBed_1m\amb_ST_Z6_BugBed_1m_02		555706
+	617509254	amb_ST_WindBed_Z4_30s_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_WindBed_Z4_30s_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\4_MainStreet\Z4_Outdoor\amb_ST_WindBed_Z4_30s_01		302813
+	691372094	amb_ST_Z6_BugBed_1m_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_Z6_BugBed_1m_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\6_MainStreetManor\Z6_Outdoor\amb_ST_Z6_BugBed_1m\amb_ST_Z6_BugBed_1m_01		973624
+	707435918	ply_Footsteps_Dirt_01_Mono	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_8508F849.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono		55058
+	714432643	amb_ST_WindBedZ5_1m_01	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_WindBedZ5_1m_01_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\5_Church\Z5_Outdoor\amb_ST_WindBed_Z5\amb_ST_WindBedZ5_1m_01		883482
+	829789252	ply_Footsteps_Dirt_01_Mono_06	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_834A795A.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_06		58116
+	902269541	amb_ST_BugBed_Z5_1m_04	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_BugBed_Z5_1m_04_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\5_Church\Z5_Outdoor\amb_ST_BugBed_Z5\amb_ST_BugBed_Z5_1m_04		622013
+	974294446	ply_Footsteps_Dirt_01_Mono_07	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_CB73F0E0.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_07		51568
+	987818045	amb_ST_BugBed_Z5_1m_02	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\amb_ST_BugBed_Z5_1m_02_CB5ADA14.wem		\Actor-Mixer Hierarchy\WorldWorkUnit\World_ST\Global\StereoBed_Zones\5_Church\Z5_Outdoor\amb_ST_BugBed_Z5\amb_ST_BugBed_Z5_1m_02		626021
+	999368061	ply_Footsteps_Dirt_01_Mono_10	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\ply_Footsteps_Dirt_01_Mono_50B3682C.wem		\Actor-Mixer Hierarchy\PlayerSFXWorkUnit\Player\Footsteps\Dirt\ply_Footsteps_Dirt_01_Mono_10		58288
+

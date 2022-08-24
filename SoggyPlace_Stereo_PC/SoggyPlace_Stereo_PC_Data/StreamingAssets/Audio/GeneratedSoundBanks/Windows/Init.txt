@@ -1,0 +1,117 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1062779386	Player_Speed			\Player_Switches\Player_Speed	
+
+Switch	ID	Name	Switch Group			Notes
+	340271938	Walking	Player_Speed			
+	3691594375	Sprinting	Player_Speed			
+	3863236874	Running	Player_Speed			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	145721553	Indoor_Outdoor			\World_States\Indoor_Outdoor	
+	3530926665	Zone_State			\World_States\Zone_State	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	Indoor_Outdoor			
+	669930569	Inside_Hall	Indoor_Outdoor			
+	748895195	None	Indoor_Outdoor			
+	1215237523	Inside_Manor	Indoor_Outdoor			
+	1379511336	Inside_OfficeBuilding	Indoor_Outdoor			
+	1592194961	Inside_Church	Indoor_Outdoor			
+	1960431119	Inside_BrickBuilding	Indoor_Outdoor			
+	1978035275	Inside_Cabin	Indoor_Outdoor			
+	2224442717	Inside_Asylum	Indoor_Outdoor			
+	2662993391	Inside_Greenhouse	Indoor_Outdoor			
+	2760249547	Inside_Barn	Indoor_Outdoor			
+	83065352	J_VillagePark	Zone_State			
+	233093088	C_FrontBayou	Zone_State			
+	379740444	I_VillageMain	Zone_State			
+	748895195	None	Zone_State			
+	795838972	D_MainStreet	Zone_State			
+	1127321912	N_School	Zone_State			
+	1322290778	M_ViridianForest	Zone_State			
+	1491759694	O_NatureReserve_Island	Zone_State			
+	1532058053	P_Asylum_Island	Zone_State			
+	1918129569	F_MainstreetManor	Zone_State			
+	2043055754	K_Manor_Island	Zone_State			
+	2134675750	G_SeasideShacks	Zone_State			
+	2451872362	H_GovernmentOffices	Zone_State			
+	2452388028	E_Church	Zone_State			
+	2610041010	A_StartingArea	Zone_State			
+	3769583171	B_SecretZone1	Zone_State			
+	4250780145	L_BackBayou	Zone_State			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Acoustic Textures\Textures\Cork_Tiles	
+	3670307564	Drywall			\Factory Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	354985509	Structures_int			\Default Work Unit\Master Audio Bus\World_Stereo\Structures_int	
+	414403015	ST_Beds			\Default Work Unit\Master Audio Bus\World_Stereo\ST_Beds	
+	523453215	Structures_ext			\Default Work Unit\Master Audio Bus\World_Stereo\Structures_ext	
+	1069431850	Player			\Default Work Unit\Master Audio Bus\Player	
+	1091113804	World_Binaural			\Default Work Unit\Master Audio Bus\World_Binaural	
+	1575162390	zTESTReverb_Environments			\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments	
+	2138983586	World_Stereo			\Default Work Unit\Master Audio Bus\World_Stereo	
+	2654748154	Water			\Default Work Unit\Master Audio Bus\World_Stereo\Water	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3882419280	Trees			\Default Work Unit\Master Audio Bus\World_Stereo\Trees	
+	3899103154	Reverb_Environments			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	103915856	env_Manor			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Manor	
+	125853920	env_Outside2			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Outside2	
+	125853923	env_Outside1			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Outside1	
+	189744232	env_Brickbuilding			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Brickbuilding	
+	299979518	EarlyReflectionsBus			\Default Work Unit\Master Audio Bus\World_Binaural\EarlyReflectionsBus	
+	443317174	env_Barn			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Barn	
+	634216916	env_Room_Ball			\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Room_Ball	
+	680291572	cabin			\Default Work Unit\Master Audio Bus\cabin	
+	1414731772	env_Cabin			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Cabin	
+	1438654516	Manor_SecondFloor_Binaural			\Default Work Unit\Master Audio Bus\World_Binaural\Manor_SecondFloor_Binaural	
+	1553636952	Exterior_Binaural			\Default Work Unit\Master Audio Bus\World_Binaural\Exterior_Binaural	
+	1722576708	env_Hall			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Hall	
+	1895941593	env_Manor_Bathroom			\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Manor_Bathroom	
+	2065485210	Manor_Bathroom_Binaural			\Default Work Unit\Master Audio Bus\World_Binaural\Manor_Bathroom_Binaural	
+	2931536880	env_Church			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Church	
+	3026171137	Manor_Binaural			\Default Work Unit\Master Audio Bus\World_Binaural\Manor_Binaural	
+	3450977802	env_Greenhouse			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Greenhouse	
+	3884708126	env_Room_Hall			\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Room_Hall	
+	4032215156	env_Asylum			\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Asylum	
+	4099615387	env_Exterior			\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	244878676	Plate_Medium (Custom)	Wwise RoomVerb			
+	428711966	Wwise Meter (Custom)	Wwise Meter			
+	484890516	Church_Small_Wood	Wwise RoomVerb			
+	602546716	Room_Large	Wwise RoomVerb			
+	692366938	Wwise_RoomVerb_(Custom)	Wwise RoomVerb			
+	773071967	Wwise Meter (Custom)	Wwise Meter			
+	782960686	Resonance Audio Renderer (Custom)	Resonance Audio Renderer			
+	862181741	Room_Medium (Custom)	Wwise RoomVerb			
+	1520064353	Hall_Medium_Bright	Wwise RoomVerb			
+	1990128658	Room_Medium	Wwise RoomVerb			
+	2265839006	Not_A_Yellow_Submarine	Wwise RoomVerb			
+	2545004126	Wwise_Reflect	Wwise Reflect			
+	2891462749	Room_Medium_High_Absorbtion	Wwise RoomVerb			
+	2995775460	Room_Small	Wwise RoomVerb			
+	3164629247	Holy	Wwise RoomVerb			
+	3451596814	Hall_Medium	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
