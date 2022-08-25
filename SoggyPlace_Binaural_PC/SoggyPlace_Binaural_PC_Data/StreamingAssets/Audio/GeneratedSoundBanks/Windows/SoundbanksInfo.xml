@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="83065352" Language="SFX" Hash="2950482021">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\J_VillagePark</ObjectPath>
+			<ShortName>J_VillagePark</ShortName>
+			<Path>J_VillagePark.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="233093088" Language="SFX" Hash="2686075567">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\C_FrontBayou</ObjectPath>
+			<ShortName>C_FrontBayou</ShortName>
+			<Path>C_FrontBayou.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="379740444" Language="SFX" Hash="1367782203">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\I_VillageMain</ObjectPath>
+			<ShortName>I_VillageMain</ShortName>
+			<Path>I_VillageMain.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="795838972" Language="SFX" Hash="3460668625">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\D_MainStreet</ObjectPath>
+			<ShortName>D_MainStreet</ShortName>
+			<Path>D_MainStreet.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4250087417" Name="Play_env_Z4_Water_Creek" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Play_env_Z4_Water_Creek" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="295141742" Language="SFX">
+							<ShortName>obj_Z4_WaterNear_Creek_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_WaterNear_Creek_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="996929009" Language="SFX">
+							<ShortName>obj_Z4_WaterNear_Creek_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_WaterNear_Creek_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="165306904" Name="Play_env_Z4_Water_UnderFootbridge" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Play_env_Z4_Water_UnderFootbridge" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="290175316" Language="SFX">
+							<ShortName>obj_Z4_WaterNear_UnderBridge_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_WaterNear_UnderBridge_1m_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="327516504" Language="SFX">
+							<ShortName>obj_Z4_WaterNear_UnderBridge_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_WaterNear_UnderBridge_1m_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2665104876" Name="Play_env_Z4_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Play_env_Z4_Water_WaterFar_90s" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3578344478" Name="Play_obj_Z4_Fencing_Wind_1" ObjectPath="\Events\World\Zones\4_MainStreet\Structure_Events\Play_obj_Z4_Fencing_Wind_1" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="941162109" Language="SFX">
+							<ShortName>obj_Z4_Fence_Wind_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_Fence_Wind_1m_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="960334261" Language="SFX">
+							<ShortName>obj_Z4_Fence_Wind_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_Fence_Wind_1m_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3578344477" Name="Play_obj_Z4_Fencing_Wind_2" ObjectPath="\Events\World\Zones\4_MainStreet\Structure_Events\Play_obj_Z4_Fencing_Wind_2" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="458925652" Language="SFX">
+							<ShortName>obj_Z4_Fence_Wind_1m_03.wav</ShortName>
+							<Path>SFX\obj_Z4_Fence_Wind_1m_03_150D8AD5.wem</Path>
+						</File>
+						<File Id="934001732" Language="SFX">
+							<ShortName>obj_Z4_Fence_Wind_1m_04.wav</ShortName>
+							<Path>SFX\obj_Z4_Fence_Wind_1m_04_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3900373068" Name="Play_obj_Z4_TreeDry" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Play_obj_Z4_TreeDry" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="116.792236" DurationMax="121.416611">
+					<IncludedMemoryFiles>
+						<File Id="789688859" Language="SFX">
+							<ShortName>obj_Z4_Trees_SmallDry_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_SmallDry_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="1025208045" Language="SFX">
+							<ShortName>obj_Z4_Trees_SmallDry_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_SmallDry_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3649841629" Name="Play_obj_Z4_TreeMid" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Play_obj_Z4_TreeMid" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="479449671" Language="SFX">
+							<ShortName>obj_Z4_Trees_Mid_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_Mid_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="916457405" Language="SFX">
+							<ShortName>obj_Z4_Trees_Mid_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_Mid_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2363775094" Name="Play_obj_Z4_TreeSmall" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Play_obj_Z4_TreeSmall" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="690395980" Language="SFX">
+							<ShortName>obj_Z4_Trees_Small_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_Small_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="914092749" Language="SFX">
+							<ShortName>obj_Z4_Trees_Small_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_Trees_Small_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3608223883" Name="Play_obj_Z4_Water_OnTruck" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Play_obj_Z4_Water_OnTruck" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="590654593" Language="SFX">
+							<ShortName>obj_Z4_Water_Truck_35s_03.wav</ShortName>
+							<Path>SFX\obj_Z4_Water_Truck_35s_03_150D8AD5.wem</Path>
+						</File>
+						<File Id="663618251" Language="SFX">
+							<ShortName>obj_Z4_Water_Truck_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z4_Water_Truck_1m_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="1050605586" Language="SFX">
+							<ShortName>obj_Z4_Water_Truck_35s_02.wav</ShortName>
+							<Path>SFX\obj_Z4_Water_Truck_35s_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1076114459" Name="Stop_env_Z4_Water_Creek" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Stop_env_Z4_Water_Creek" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3398481246" Name="Stop_env_Z4_Water_UnderFootbridge" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Stop_env_Z4_Water_UnderFootbridge" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1215292494" Name="Stop_env_Z4_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Stop_env_Z4_Water_WaterFar_90s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="763342892" Name="Stop_obj_Z4_Fencing_Wind_1" ObjectPath="\Events\World\Zones\4_MainStreet\Structure_Events\Stop_obj_Z4_Fencing_Wind_1" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="763342895" Name="Stop_obj_Z4_Fencing_Wind_2" ObjectPath="\Events\World\Zones\4_MainStreet\Structure_Events\Stop_obj_Z4_Fencing_Wind_2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3139178578" Name="Stop_obj_Z4_TreeDry" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Stop_obj_Z4_TreeDry" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3221639647" Name="Stop_obj_Z4_TreeMid" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Stop_obj_Z4_TreeMid" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2134042796" Name="Stop_obj_Z4_TreeSmall" ObjectPath="\Events\World\Zones\4_MainStreet\Tree_Events\Stop_obj_Z4_TreeSmall" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="575486529" Name="Stop_obj_Z4_Water_OnTruck" ObjectPath="\Events\World\Zones\4_MainStreet\Water_Events\Stop_obj_Z4_Water_OnTruck" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1127321912" Language="SFX" Hash="3946113614">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\N_School</ObjectPath>
+			<ShortName>N_School</ShortName>
+			<Path>N_School.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1322290778" Language="SFX" Hash="1138152593">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\M_ViridianForest</ObjectPath>
+			<ShortName>M_ViridianForest</ShortName>
+			<Path>M_ViridianForest.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3933040942">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="103915856" Name="env_Manor" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Manor"/>
+				<AuxBus Id="125853920" Name="env_Outside2" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Outside2"/>
+				<AuxBus Id="125853923" Name="env_Outside1" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Outside1"/>
+				<AuxBus Id="189744232" Name="env_Brickbuilding" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Brickbuilding"/>
+				<AuxBus Id="299979518" Name="EarlyReflectionsBus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\EarlyReflectionsBus"/>
+				<AuxBus Id="443317174" Name="env_Barn" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Barn"/>
+				<AuxBus Id="634216916" Name="env_Room_Ball" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Room_Ball"/>
+				<AuxBus Id="680291572" Name="cabin" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\cabin"/>
+				<AuxBus Id="1414731772" Name="env_Cabin" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Cabin"/>
+				<AuxBus Id="1438654516" Name="Manor_SecondFloor_Binaural" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\Manor_SecondFloor_Binaural"/>
+				<AuxBus Id="1553636952" Name="Exterior_Binaural" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\Exterior_Binaural"/>
+				<AuxBus Id="1722576708" Name="env_Hall" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Hall"/>
+				<AuxBus Id="1895941593" Name="env_Manor_Bathroom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Manor_Bathroom"/>
+				<AuxBus Id="2065485210" Name="Manor_Bathroom_Binaural" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\Manor_Bathroom_Binaural"/>
+				<AuxBus Id="2931536880" Name="env_Church" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Church"/>
+				<AuxBus Id="3026171137" Name="Manor_Binaural" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\Manor_Binaural"/>
+				<AuxBus Id="3450977802" Name="env_Greenhouse" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Greenhouse"/>
+				<AuxBus Id="3884708126" Name="env_Room_Hall" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Room_Hall"/>
+				<AuxBus Id="4032215156" Name="env_Asylum" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\Reverb_Environments\env_Asylum"/>
+				<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="1491759694" Language="SFX" Hash="2228217796">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\O_NatureReserve_Island</ObjectPath>
+			<ShortName>O_NatureReserve_Island</ShortName>
+			<Path>O_NatureReserve_Island.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1532058053" Language="SFX" Hash="2094940024">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\P_Asylum_Island</ObjectPath>
+			<ShortName>P_Asylum_Island</ShortName>
+			<Path>P_Asylum_Island.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1918129569" Language="SFX" Hash="4136048776">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\F_MainstreetManor</ObjectPath>
+			<ShortName>F_MainstreetManor</ShortName>
+			<Path>F_MainstreetManor.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2395000674" Name="Play_env_Z6_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Water_Events\Play_env_Z6_Water_WaterFar_90s" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1493142109" Name="Play_obj_Z5_WaterNear_Lagoon_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Water_Events\Play_obj_Z5_WaterNear_Lagoon_1m" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="560437245" Language="SFX">
+							<ShortName>obj_Z5_WaterNear_Lagoon_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z5_WaterNear_Lagoon_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="601467189" Language="SFX">
+							<ShortName>obj_Z5_WaterNear_Lagoon_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z5_WaterNear_Lagoon_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3978407909" Name="Play_obj_Z6_BugBush" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Play_obj_Z6_BugBush" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="379855186" Language="SFX">
+							<ShortName>obj_Z6_BugBush_30s_01.wav</ShortName>
+							<Path>SFX\obj_Z6_BugBush_30s_01_63FE1D8E.wem</Path>
+						</File>
+						<File Id="976488291" Language="SFX">
+							<ShortName>obj_Z6_BugBush_Z6_35s_01.wav</ShortName>
+							<Path>SFX\obj_Z6_BugBush_Z6_35s_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="822601037" Name="Play_obj_Z6_BugBush2" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Play_obj_Z6_BugBush2" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="899681244" Language="SFX">
+							<ShortName>obj_Z6_BugBush2_45s_02.wav</ShortName>
+							<Path>SFX\obj_Z6_BugBush2_45s_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="910456518" Language="SFX">
+							<ShortName>obj_Z6_BugBush2_45s_01.wav</ShortName>
+							<Path>SFX\obj_Z6_BugBush2_45s_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="553828362" Name="Play_obj_Z6_Greenhouse_Wind_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Structure_Events\Play_obj_Z6_Greenhouse_Wind_1m" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="99788876" Language="SFX">
+							<ShortName>obj_Z6_Greenhouse_Wind_1m_03.wav</ShortName>
+							<Path>SFX\obj_Z6_Greenhouse_Wind_1m_03_150D8AD5.wem</Path>
+						</File>
+						<File Id="268935248" Language="SFX">
+							<ShortName>obj_Z6_Greenhouse_Wind_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z6_Greenhouse_Wind_1m_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="352387300" Language="SFX">
+							<ShortName>obj_Z6_Greenhouse_Wind_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z6_Greenhouse_Wind_1m_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="631806726" Name="Play_obj_Z6_ManorInt_Wind_50" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Structure_Events\Play_obj_Z6_ManorInt_Wind_50" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="400371045" Language="SFX">
+							<ShortName>obj_Z6_ManorInt_Wind_50s_01.wav</ShortName>
+							<Path>SFX\obj_Z6_ManorInt_Wind_50s_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="826841754" Language="SFX">
+							<ShortName>obj_Z6_ManorInt_Wind_50s_02.wav</ShortName>
+							<Path>SFX\obj_Z6_ManorInt_Wind_50s_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3696965242" Name="Play_obj_Z6_Trees_Big_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Play_obj_Z6_Trees_Big_1m" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="599404657" Language="SFX">
+							<ShortName>obj_Z6_Trees_Big_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z6_Trees_Big_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="822956697" Language="SFX">
+							<ShortName>obj_Z6_Trees_Big_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z6_Trees_Big_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="922843144" Name="Stop_env_Z6_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Water_Events\Stop_env_Z6_Water_WaterFar_90s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2071700963" Name="Stop_obj_Z5_WaterNear_Lagoon_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Water_Events\Stop_obj_Z5_WaterNear_Lagoon_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3196361743" Name="Stop_obj_Z6_BugBush" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Stop_obj_Z6_BugBush" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4190219183" Name="Stop_obj_Z6_BugBush2" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Stop_obj_Z6_BugBush2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2426146660" Name="Stop_obj_Z6_Greenhouse_Wind_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Structure_Events\Stop_obj_Z6_Greenhouse_Wind_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1361329412" Name="Stop_obj_Z6_ManorInt_Wind_50" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Structure_Events\Stop_obj_Z6_ManorInt_Wind_50" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1105764120" Name="Stop_obj_Z6_Trees_Big_1m" ObjectPath="\Events\World\Zones\6_Mainstreet_Manor\Tree_Events\Stop_obj_Z6_Trees_Big_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2043055754" Language="SFX" Hash="3031982725">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\K_Manor_Island</ObjectPath>
+			<ShortName>K_Manor_Island</ShortName>
+			<Path>K_Manor_Island.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2134675750" Language="SFX" Hash="1050353348">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\G_SeasideShacks</ObjectPath>
+			<ShortName>G_SeasideShacks</ShortName>
+			<Path>G_SeasideShacks.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1042387369" Name="Play_env_Z7_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\7_SeasideShacks\Water_Events\Play_env_Z7_Water_WaterFar_90s" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4243523223" Name="Play_obj_Z5_Trees_Big_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Play_obj_Z5_Trees_Big_1m" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="133048318" Language="SFX">
+							<ShortName>obj_Z5_Trees_Big_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Big_1m_01_63FE1D8E.wem</Path>
+						</File>
+						<File Id="1011607807" Language="SFX">
+							<ShortName>obj_Z5_Trees_Big_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Big_1m_02_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2528094147" Name="Play_obj_Z7_CabinInt_Wind_55s" ObjectPath="\Events\World\Zones\7_SeasideShacks\Structure_Events\Play_obj_Z7_CabinInt_Wind_55s" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="579325747" Language="SFX">
+							<ShortName>obj_CabinInt_Wind_55s_02.wav</ShortName>
+							<Path>SFX\obj_CabinInt_Wind_55s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="851035051" Language="SFX">
+							<ShortName>obj_CabinInt_Wind_55s_01.wav</ShortName>
+							<Path>SFX\obj_CabinInt_Wind_55s_01_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2539260290" Name="Play_obj_Z7_Trees_Ded_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Play_obj_Z7_Trees_Ded_1m" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="369771454" Language="SFX">
+							<ShortName>obj_Z7_Trees_Ded_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Ded_1m_01_63FE1D8E.wem</Path>
+						</File>
+						<File Id="957745928" Language="SFX">
+							<ShortName>obj_Z7_Trees_Ded_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Ded_1m_02_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="652224113" Name="Play_obj_Z7_Trees_Mid_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Play_obj_Z7_Trees_Mid_1m" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="535556802" Language="SFX">
+							<ShortName>obj_Z7_Trees_Mid_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Mid_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="969687821" Language="SFX">
+							<ShortName>obj_Z7_Trees_Mid_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Mid_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4211095612" Name="Play_obj_Z7_Trees_Small_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Play_obj_Z7_Trees_Small_1m" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="129795090" Language="SFX">
+							<ShortName>obj_Z7_Trees_Small_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Small_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="223068899" Language="SFX">
+							<ShortName>obj_Z7_Trees_Small_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z7_Trees_Small_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3977408159" Name="Stop_env_Z7_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\7_SeasideShacks\Water_Events\Stop_env_Z7_Water_WaterFar_90s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1221517833" Name="Stop_obj_Z5_Trees_Big_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Stop_obj_Z5_Trees_Big_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3126902801" Name="Stop_obj_Z7_CabinInt_Wind_55s" ObjectPath="\Events\World\Zones\7_SeasideShacks\Structure_Events\Stop_obj_Z7_CabinInt_Wind_55s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3962409136" Name="Stop_obj_Z7_Trees_Ded_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Stop_obj_Z7_Trees_Ded_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="141724511" Name="Stop_obj_Z7_Trees_Mid_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Stop_obj_Z7_Trees_Mid_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2833802126" Name="Stop_obj_Z7_Trees_Small_1m" ObjectPath="\Events\World\Zones\7_SeasideShacks\Tree_Events\Stop_obj_Z7_Trees_Small_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2451872362" Language="SFX" Hash="1652467994">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\H_GovernmentOffices</ObjectPath>
+			<ShortName>H_GovernmentOffices</ShortName>
+			<Path>H_GovernmentOffices.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2452388028" Language="SFX" Hash="2271909807">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\E_Church</ObjectPath>
+			<ShortName>E_Church</ShortName>
+			<Path>E_Church.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3593542675" Name="Play_env_Z5_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\5_Church\Water_Events\Play_env_Z5_Water_WaterFar_90s" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2077540165" Name="Play_obj_Z5_ChurchInt_Wind1_45s" ObjectPath="\Events\World\Zones\5_Church\Structure_Events\Play_obj_Z5_ChurchInt_Wind1_45s" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="978424526" Language="SFX">
+							<ShortName>obj_Z5_ChurchInt_Wind1_45s_02.wav</ShortName>
+							<Path>SFX\obj_Z5_ChurchInt_Wind1_45s_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="1063159535" Language="SFX">
+							<ShortName>obj_Z5_ChurchInt_Wind1_45s_01.wav</ShortName>
+							<Path>SFX\obj_Z5_ChurchInt_Wind1_45s_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="277048758" Name="Play_obj_Z5_Structure_Small_1m" ObjectPath="\Events\World\Zones\5_Church\Structure_Events\Play_obj_Z5_Structure_Small_1m" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="310359544" Language="SFX">
+							<ShortName>obj_Z5_Structure_Small_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z5_Structure_Small_1m_01_150D8AD5.wem</Path>
+						</File>
+						<File Id="460887235" Language="SFX">
+							<ShortName>obj_Z5_Structure_Small_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z5_Structure_Small_1m_02_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2815423515" Name="Play_obj_Z5_Trees_Big_1m_01" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Play_obj_Z5_Trees_Big_1m_01" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="133048318" Language="SFX">
+							<ShortName>obj_Z5_Trees_Big_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Big_1m_01_63FE1D8E.wem</Path>
+						</File>
+						<File Id="1011607807" Language="SFX">
+							<ShortName>obj_Z5_Trees_Big_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Big_1m_02_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3001515944" Name="Play_obj_Z5_Trees_Small_1m5s_01" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Play_obj_Z5_Trees_Small_1m5s_01" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="24295251" Language="SFX">
+							<ShortName>obj_Z5_Trees_Small_1m5s_02.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Small_1m5s_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="558111846" Language="SFX">
+							<ShortName>obj_Z5_Trees_Small_1m5s_01.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Small_1m5s_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3001515947" Name="Play_obj_Z5_Trees_Small_1m5s_02" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Play_obj_Z5_Trees_Small_1m5s_02" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="452952914" Language="SFX">
+							<ShortName>obj_Z5_Trees_Small_1m5s_04.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Small_1m5s_04_150D8AD5.wem</Path>
+						</File>
+						<File Id="467330205" Language="SFX">
+							<ShortName>obj_Z5_Trees_Small_1m5s_03.wav</ShortName>
+							<Path>SFX\obj_Z5_Trees_Small_1m5s_03_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2343960057" Name="Play_obj_Z5_WaterNear_Lagoon_1m_01" ObjectPath="\Events\World\Zones\5_Church\Water_Events\Play_obj_Z5_WaterNear_Lagoon_1m_01" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="560437245" Language="SFX">
+							<ShortName>obj_Z5_WaterNear_Lagoon_1m_02.wav</ShortName>
+							<Path>SFX\obj_Z5_WaterNear_Lagoon_1m_02_150D8AD5.wem</Path>
+						</File>
+						<File Id="601467189" Language="SFX">
+							<ShortName>obj_Z5_WaterNear_Lagoon_1m_01.wav</ShortName>
+							<Path>SFX\obj_Z5_WaterNear_Lagoon_1m_01_150D8AD5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1053909221" Name="Stop_env_Z5_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\5_Church\Water_Events\Stop_env_Z5_Water_WaterFar_90s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3211172175" Name="Stop_obj_Z5_ChurchInt_Wind1_45s" ObjectPath="\Events\World\Zones\5_Church\Structure_Events\Stop_obj_Z5_ChurchInt_Wind1_45s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4247022028" Name="Stop_obj_Z5_Structure_Small_1m" ObjectPath="\Events\World\Zones\5_Church\Structure_Events\Stop_obj_Z5_Structure_Small_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="628327669" Name="Stop_obj_Z5_Trees_Big_1m_01" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Stop_obj_Z5_Trees_Big_1m_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3723743562" Name="Stop_obj_Z5_Trees_Small_1m5s_01" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Stop_obj_Z5_Trees_Small_1m5s_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3723743561" Name="Stop_obj_Z5_Trees_Small_1m5s_02" ObjectPath="\Events\World\Zones\5_Church\Tree_Events\Stop_obj_Z5_Trees_Small_1m5s_02" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="593188567" Name="Stop_obj_Z5_WaterNear_Lagoon_1m_01" ObjectPath="\Events\World\Zones\5_Church\Water_Events\Stop_obj_Z5_WaterNear_Lagoon_1m_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2610041010" Language="SFX" Hash="2842874069">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\A_StartingArea</ObjectPath>
+			<ShortName>A_StartingArea</ShortName>
+			<Path>A_StartingArea.bnk</Path>
+			<IncludedEvents>
+				<Event Id="857970658" Name="Play_1SA_obj_Tree_BridgeSqueaking" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Play_1SA_obj_Tree_BridgeSqueaking" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="581316945" Language="SFX">
+							<ShortName>obj_Tree_BridgeSqueaking_35s_01.wav</ShortName>
+							<Path>SFX\obj_Tree_BridgeSqueaking_35s_01_63FE1D8E.wem</Path>
+						</File>
+						<File Id="708373737" Language="SFX">
+							<ShortName>obj_Tree_BridgeSqueaking_35s_02.wav</ShortName>
+							<Path>SFX\obj_Tree_BridgeSqueaking_35s_02_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="2637457105" Name="Play_1SA_obj_Tree_Leaves_35s" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Play_1SA_obj_Tree_Leaves_35s" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="934747125" Language="SFX">
+							<ShortName>obj_Tree_Leaves_01_35s.wav</ShortName>
+							<Path>SFX\obj_Tree_Leaves_01_35s_63FE1D8E.wem</Path>
+						</File>
+						<File Id="945719285" Language="SFX">
+							<ShortName>obj_Tree_Leaves_02_35s.wav</ShortName>
+							<Path>SFX\obj_Tree_Leaves_02_35s_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="132516726" Name="Play_1SA_obj_Tree_Wind_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Play_1SA_obj_Tree_Wind_1m" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="48704640" Language="SFX">
+							<ShortName>obj_Tree_Wind_1m_03.wav</ShortName>
+							<Path>SFX\obj_Tree_Wind_1m_03_63FE1D8E.wem</Path>
+						</File>
+						<File Id="493726340" Language="SFX">
+							<ShortName>obj_Tree_Wind_1m_02.wav</ShortName>
+							<Path>SFX\obj_Tree_Wind_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="550590129" Language="SFX">
+							<ShortName>obj_Tree_Wind_1m_01.wav</ShortName>
+							<Path>SFX\obj_Tree_Wind_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3694913665" Name="Play_env_Water_WaterFar_90s_01" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Play_env_Water_WaterFar_90s_01" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3694913666" Name="Play_env_Water_WaterFar_90s_02" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Play_env_Water_WaterFar_90s_02" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3694913667" Name="Play_env_Water_WaterFar_90s_03" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Play_env_Water_WaterFar_90s_03" MaxAttenuation="200.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="9670656" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_06.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_06_12D486B3.wem</Path>
+						</File>
+						<File Id="85835014" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_05.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_05_12D486B3.wem</Path>
+						</File>
+						<File Id="479296151" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="556277082" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_03.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_03_12D486B3.wem</Path>
+						</File>
+						<File Id="958552842" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1025722398" Language="SFX">
+							<ShortName>obj_Water_WaterFar_90s_04.wav</ShortName>
+							<Path>SFX\obj_Water_WaterFar_90s_04_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3015324718" Name="Play_Fire" ObjectPath="\Events\World\Zones\1_StartingArea\Play_Fire" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="358196171" Language="SFX">
+							<ShortName>Fire_LoopShort.wav</ShortName>
+							<Path>SFX\Fire_LoopShort_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="820723023" Name="Play_obj_CabinInt_Wind_55s" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Play_obj_CabinInt_Wind_55s" MaxAttenuation="25.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="579325747" Language="SFX">
+							<ShortName>obj_CabinInt_Wind_55s_02.wav</ShortName>
+							<Path>SFX\obj_CabinInt_Wind_55s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="851035051" Language="SFX">
+							<ShortName>obj_CabinInt_Wind_55s_01.wav</ShortName>
+							<Path>SFX\obj_CabinInt_Wind_55s_01_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3235641557" Name="Play_obj_Ship_Groan_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Boat_Events\Play_obj_Ship_Groan_1m" MaxAttenuation="30.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="357467842" Language="SFX">
+							<ShortName>obj_Ship_SlowCreaking_1m_01.wav</ShortName>
+							<Path>SFX\obj_Ship_SlowCreaking_1m_01_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1682493237" Name="Play_obj_Ship_WaterOnHull_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Boat_Events\Play_obj_Ship_WaterOnHull_1m" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="407169562" Language="SFX">
+							<ShortName>obj_Ship_WaterOnHull_1m_04.wav</ShortName>
+							<Path>SFX\obj_Ship_WaterOnHull_1m_04_12D486B3.wem</Path>
+						</File>
+						<File Id="423409680" Language="SFX">
+							<ShortName>obj_Ship_WaterOnHull_1m_03.wav</ShortName>
+							<Path>SFX\obj_Ship_WaterOnHull_1m_03_12D486B3.wem</Path>
+						</File>
+						<File Id="579021783" Language="SFX">
+							<ShortName>obj_Ship_WaterOnHull_1m_01.wav</ShortName>
+							<Path>SFX\obj_Ship_WaterOnHull_1m_01_12D486B3.wem</Path>
+						</File>
+						<File Id="1044826096" Language="SFX">
+							<ShortName>obj_Ship_WaterOnHull_1m_02.wav</ShortName>
+							<Path>SFX\obj_Ship_WaterOnHull_1m_02_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1062397283" Name="Play_obj_Tower_RopeHittingPole" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Play_obj_Tower_RopeHittingPole" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1051175021" Language="SFX">
+							<ShortName>obj_Tower_RopeHittingPole_35s_01.wav</ShortName>
+							<Path>SFX\obj_Tower_RopeHittingPole_35s_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="298938711" Name="Play_obj_Tower_RopeHittingPole_01" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Play_obj_Tower_RopeHittingPole_01" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1051175021" Language="SFX">
+							<ShortName>obj_Tower_RopeHittingPole_35s_01.wav</ShortName>
+							<Path>SFX\obj_Tower_RopeHittingPole_35s_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1992300427" Name="Play_obj_Tower_WindCables_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Play_obj_Tower_WindCables_1m" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="420266039" Language="SFX">
+							<ShortName>obj_Tower_WindCables_1m_02.wav</ShortName>
+							<Path>SFX\obj_Tower_WindCables_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="699675307" Language="SFX">
+							<ShortName>obj_Tower_WindCables_1m_01.wav</ShortName>
+							<Path>SFX\obj_Tower_WindCables_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="687429887" Name="Play_obj_Tower_WindCables_1m_01" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Play_obj_Tower_WindCables_1m_01" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="420266039" Language="SFX">
+							<ShortName>obj_Tower_WindCables_1m_02.wav</ShortName>
+							<Path>SFX\obj_Tower_WindCables_1m_02_63FE1D8E.wem</Path>
+						</File>
+						<File Id="699675307" Language="SFX">
+							<ShortName>obj_Tower_WindCables_1m_01.wav</ShortName>
+							<Path>SFX\obj_Tower_WindCables_1m_01_63FE1D8E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3738252512" Name="Play_obj_Water_WaterNear_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Play_obj_Water_WaterNear_1m" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="410392769" Language="SFX">
+							<ShortName>obj_Water_WaterNear_1m_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterNear_1m_01_12D486B3.wem</Path>
+						</File>
+						<File Id="741452346" Language="SFX">
+							<ShortName>obj_Water_WaterNear_1m_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterNear_1m_02_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1246158329" Name="Play_obj_Water_WaterNearBusy_45s" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Play_obj_Water_WaterNearBusy_45s" MaxAttenuation="40.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="439746418" Language="SFX">
+							<ShortName>obj_Water_WaterNearBusy_45s_02.wav</ShortName>
+							<Path>SFX\obj_Water_WaterNearBusy_45s_02_12D486B3.wem</Path>
+						</File>
+						<File Id="1015178546" Language="SFX">
+							<ShortName>obj_Water_WaterNearBusy_45s_01.wav</ShortName>
+							<Path>SFX\obj_Water_WaterNearBusy_45s_01_12D486B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="4099615387" Name="env_Exterior" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Exterior"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="2632082212" Name="Stop_1SA_obj_Tree_BridgeSqueaking" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Stop_1SA_obj_Tree_BridgeSqueaking" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2866617503" Name="Stop_1SA_obj_Tree_Leaves_35s" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Stop_1SA_obj_Tree_Leaves_35s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2911216552" Name="Stop_1SA_obj_Tree_Wind_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Tree_Events\Stop_1SA_obj_Tree_Wind_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3649876163" Name="Stop_env_Water_WaterFar_90s" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Stop_env_Water_WaterFar_90s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2610888853" Name="Stop_obj_CabinInt_Wind_55s" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Stop_obj_CabinInt_Wind_55s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="898560387" Name="Stop_obj_Ship_Groan_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Boat_Events\Stop_obj_Ship_Groan_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="990530763" Name="Stop_obj_Ship_WaterOnHull_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Boat_Events\Stop_obj_Ship_WaterOnHull_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="71425473" Name="Stop_obj_Tower_RopeHittingPole" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Stop_obj_Tower_RopeHittingPole" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2886721037" Name="Stop_obj_Tower_RopeHittingPole_01" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Stop_obj_Tower_RopeHittingPole_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3693274533" Name="Stop_obj_Tower_WindCables_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Stop_obj_Tower_WindCables_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="56317057" Name="Stop_obj_Tower_WindCables_1m_01" ObjectPath="\Events\World\Zones\1_StartingArea\Structure_Events\Stop_obj_Tower_WindCables_1m_01" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3674338606" Name="Stop_obj_Water_WaterNear_1m" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Stop_obj_Water_WaterNear_1m" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="389065783" Name="Stop_obj_Water_WaterNearBusy_45s" ObjectPath="\Events\World\Zones\1_StartingArea\Water_Events\Stop_obj_Water_WaterNearBusy_45s" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="1140633381">
+			<ObjectPath>\SoundBanks\World_Banks\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\PlayerSFX\Play_Footsteps" MaxAttenuation="4.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.691616">
+					<IncludedMemoryFiles>
+						<File Id="18489928" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_7E8B58F4.wem</Path>
+						</File>
+						<File Id="276558683" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_88E16366.wem</Path>
+						</File>
+						<File Id="299016634" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_285F8EBA.wem</Path>
+						</File>
+						<File Id="414918043" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_A1418C76.wem</Path>
+						</File>
+						<File Id="475041374" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_0AAE1446.wem</Path>
+						</File>
+						<File Id="476073778" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_B2FFFE9B.wem</Path>
+						</File>
+						<File Id="494764820" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_5A076401.wem</Path>
+						</File>
+						<File Id="707435918" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_8508F849.wem</Path>
+						</File>
+						<File Id="829789252" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_834A795A.wem</Path>
+						</File>
+						<File Id="974294446" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_CB73F0E0.wem</Path>
+						</File>
+						<File Id="999368061" Language="SFX">
+							<ShortName>ply_Footsteps_Dirt_01_Mono.wav</ShortName>
+							<Path>SFX\ply_Footsteps_Dirt_01_Mono_50B3682C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{0CEF3830-A50D-4328-B393-0BA2DAB6616F}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{0CEF3830-A50D-4328-B393-0BA2DAB6616F}">
+							<Media>
+								<File Id="18489928"/>
+								<File Id="276558683"/>
+								<File Id="299016634"/>
+								<File Id="414918043"/>
+								<File Id="475041374"/>
+								<File Id="476073778"/>
+								<File Id="494764820"/>
+								<File Id="707435918"/>
+								<File Id="829789252"/>
+								<File Id="974294446"/>
+								<File Id="999368061"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3701245108" Name="Play_StereoBed_Master" ObjectPath="\Events\World\Global\StereoBeds\Play_StereoBed_Master" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="247747455" Language="SFX">
+							<ShortName>amb_ST_BugBed_Z5_1m_03.wav</ShortName>
+							<Path>SFX\amb_ST_BugBed_Z5_1m_03_CB5ADA14.wem</Path>
+						</File>
+						<File Id="312080674" Language="SFX">
+							<ShortName>amb_ST_BugBed_01.wav</ShortName>
+							<Path>SFX\amb_ST_BugBed_01_8BF35F2E.wem</Path>
+						</File>
+						<File Id="346941170" Language="SFX">
+							<ShortName>amb_ST_BugBed_01.wav</ShortName>
+							<Path>SFX\amb_ST_BugBed_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="362284840" Language="SFX">
+							<ShortName>amb_ST_Z7_WindBed_1m_01.wav</ShortName>
+							<Path>SFX\amb_ST_Z7_WindBed_1m_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="385627533" Language="SFX">
+							<ShortName>amb_ST_Z6_WindBed_1m_01.wav</ShortName>
+							<Path>SFX\amb_ST_Z6_WindBed_1m_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="395042594" Language="SFX">
+							<ShortName>amb_ST_WindBedZ5_1m_02.wav</ShortName>
+							<Path>SFX\amb_ST_WindBedZ5_1m_02_CB5ADA14.wem</Path>
+						</File>
+						<File Id="553612521" Language="SFX">
+							<ShortName>amb_ST_WindBed_01.wav</ShortName>
+							<Path>SFX\amb_ST_WindBed_01_8BF35F2E.wem</Path>
+						</File>
+						<File Id="603235011" Language="SFX">
+							<ShortName>amb_ST_Z6_BugBed_1m_02.wav</ShortName>
+							<Path>SFX\amb_ST_Z6_BugBed_1m_02_CB5ADA14.wem</Path>
+						</File>
+						<File Id="617509254" Language="SFX">
+							<ShortName>amb_ST_WindBed_Z4_30s_01.wav</ShortName>
+							<Path>SFX\amb_ST_WindBed_Z4_30s_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="691372094" Language="SFX">
+							<ShortName>amb_ST_Z6_BugBed_1m_01.wav</ShortName>
+							<Path>SFX\amb_ST_Z6_BugBed_1m_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="714432643" Language="SFX">
+							<ShortName>amb_ST_WindBedZ5_1m_01.wav</ShortName>
+							<Path>SFX\amb_ST_WindBedZ5_1m_01_CB5ADA14.wem</Path>
+						</File>
+						<File Id="902269541" Language="SFX">
+							<ShortName>amb_ST_BugBed_Z5_1m_04.wav</ShortName>
+							<Path>SFX\amb_ST_BugBed_Z5_1m_04_CB5ADA14.wem</Path>
+						</File>
+						<File Id="987818045" Language="SFX">
+							<ShortName>amb_ST_BugBed_Z5_1m_02.wav</ShortName>
+							<Path>SFX\amb_ST_BugBed_Z5_1m_02_CB5ADA14.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{8C5F3C02-666D-4E0B-AC78-BA31093E930C}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{8C5F3C02-666D-4E0B-AC78-BA31093E930C}">
+							<DefaultSwitchValue>{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{AAC41BBB-ED19-465E-9C34-697380B9AE2D}">
+									<Media>
+										<File Id="312080674"/>
+										<File Id="553612521"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}">
+									<Media>
+										<File Id="312080674"/>
+										<File Id="553612521"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{EC5AB009-8047-4E5E-8F5C-4CF89B159787}">
+							<DefaultSwitchValue>{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}">
+									<Media>
+										<File Id="346941170"/>
+										<File Id="617509254"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{C19F8B48-2183-4827-98A7-213161F8C91C}">
+							<DefaultSwitchValue>{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{AAC41BBB-ED19-465E-9C34-697380B9AE2D}">
+									<Media>
+										<File Id="362284840"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}">
+									<Media>
+										<File Id="362284840"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{17D332C2-08B9-482B-89DD-03DFE40852AE}">
+							<DefaultSwitchValue>{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{F38AD900-140A-4B3D-8D6D-EABDD76F9D70}">
+									<Media>
+										<File Id="385627533"/>
+										<File Id="603235011"/>
+										<File Id="691372094"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{F8CEF81F-12DF-438E-9F09-7152F62D866B}">
+									<Media>
+										<File Id="385627533"/>
+										<File Id="603235011"/>
+										<File Id="691372094"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}">
+									<Media>
+										<File Id="385627533"/>
+										<File Id="603235011"/>
+										<File Id="691372094"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{758C6EE6-AD85-45F3-8A7C-21115E184F92}">
+							<DefaultSwitchValue>{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}">
+									<Media>
+										<File Id="247747455"/>
+										<File Id="395042594"/>
+										<File Id="714432643"/>
+										<File Id="902269541"/>
+										<File Id="987818045"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{595347FB-3723-4D32-88BB-CCC4431E5004}">
+									<Media>
+										<File Id="247747455"/>
+										<File Id="395042594"/>
+										<File Id="714432643"/>
+										<File Id="902269541"/>
+										<File Id="987818045"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2805152020" Name="Player_Is_Inside" ObjectPath="\Events\World\Global\Misc\Player_Is_Inside" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1030551261" Name="Player_Is_Outside" ObjectPath="\Events\World\Global\Misc\Player_Is_Outside" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="145721553" Name="Indoor_Outdoor" ObjectPath="\States\World_States\Indoor_Outdoor" GUID="{9452389F-370D-4849-AE3B-EE9CD7F46D99}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\World_States\Indoor_Outdoor\None" GUID="{38C20DD8-9815-4859-98F3-931E8293E66F}"/>
+						<State Id="2224442717" Name="Inside_Asylum" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Asylum" GUID="{4B21A8D1-D959-43C5-9D58-7FD32F55B962}"/>
+						<State Id="2760249547" Name="Inside_Barn" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Barn" GUID="{D1AF5334-0E13-4222-8C55-309EE2029D25}"/>
+						<State Id="1960431119" Name="Inside_BrickBuilding" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_BrickBuilding" GUID="{4CF077B4-EE89-46DF-8832-6838644098F9}"/>
+						<State Id="1978035275" Name="Inside_Cabin" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Cabin" GUID="{AAC41BBB-ED19-465E-9C34-697380B9AE2D}"/>
+						<State Id="1592194961" Name="Inside_Church" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Church" GUID="{595347FB-3723-4D32-88BB-CCC4431E5004}"/>
+						<State Id="2662993391" Name="Inside_Greenhouse" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Greenhouse" GUID="{F8CEF81F-12DF-438E-9F09-7152F62D866B}"/>
+						<State Id="669930569" Name="Inside_Hall" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Hall" GUID="{DC12CF93-5BCB-4293-8854-EBFE81DCB01F}"/>
+						<State Id="1215237523" Name="Inside_Manor" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_Manor" GUID="{F38AD900-140A-4B3D-8D6D-EABDD76F9D70}"/>
+						<State Id="1379511336" Name="Inside_OfficeBuilding" ObjectPath="\States\World_States\Indoor_Outdoor\Inside_OfficeBuilding" GUID="{5D4C318E-93A1-463F-BA66-8E0223AFFC0A}"/>
+						<State Id="438105790" Name="Outside" ObjectPath="\States\World_States\Indoor_Outdoor\Outside" GUID="{C6EB37D7-3E08-4E2B-85DE-5DBE334CBFC3}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3530926665" Name="Zone_State" ObjectPath="\States\World_States\Zone_State" GUID="{3E81E855-B99F-4796-9F75-BFE96C04D0BC}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\World_States\Zone_State\None" GUID="{457D0C89-FF10-49F7-8ADF-E4D9E332331C}"/>
+						<State Id="2610041010" Name="A_StartingArea" ObjectPath="\States\World_States\Zone_State\A_StartingArea" GUID="{8C5F3C02-666D-4E0B-AC78-BA31093E930C}"/>
+						<State Id="3769583171" Name="B_SecretZone1" ObjectPath="\States\World_States\Zone_State\B_SecretZone1" GUID="{BC03801B-C0F3-4FB8-915C-8FF7010E1762}"/>
+						<State Id="233093088" Name="C_FrontBayou" ObjectPath="\States\World_States\Zone_State\C_FrontBayou" GUID="{D5062E66-6CDC-41AC-8016-B99E84091E6E}"/>
+						<State Id="795838972" Name="D_MainStreet" ObjectPath="\States\World_States\Zone_State\D_MainStreet" GUID="{EC5AB009-8047-4E5E-8F5C-4CF89B159787}"/>
+						<State Id="2452388028" Name="E_Church" ObjectPath="\States\World_States\Zone_State\E_Church" GUID="{758C6EE6-AD85-45F3-8A7C-21115E184F92}"/>
+						<State Id="1918129569" Name="F_MainstreetManor" ObjectPath="\States\World_States\Zone_State\F_MainstreetManor" GUID="{17D332C2-08B9-482B-89DD-03DFE40852AE}"/>
+						<State Id="2134675750" Name="G_SeasideShacks" ObjectPath="\States\World_States\Zone_State\G_SeasideShacks" GUID="{C19F8B48-2183-4827-98A7-213161F8C91C}"/>
+						<State Id="2451872362" Name="H_GovernmentOffices" ObjectPath="\States\World_States\Zone_State\H_GovernmentOffices" GUID="{90FE1290-5D90-4188-A74C-2B4914BFF330}"/>
+						<State Id="379740444" Name="I_VillageMain" ObjectPath="\States\World_States\Zone_State\I_VillageMain" GUID="{F893F1A6-7211-4808-9355-6A7B1A6DDEC9}"/>
+						<State Id="83065352" Name="J_VillagePark" ObjectPath="\States\World_States\Zone_State\J_VillagePark" GUID="{A379578F-22F6-4C27-A445-DF9B58928805}"/>
+						<State Id="2043055754" Name="K_Manor_Island" ObjectPath="\States\World_States\Zone_State\K_Manor_Island" GUID="{0B6CF1A4-A683-4C8F-8C32-26E843048B38}"/>
+						<State Id="4250780145" Name="L_BackBayou" ObjectPath="\States\World_States\Zone_State\L_BackBayou" GUID="{AFA2F8F4-801A-4C59-BB8A-F8DFAE3A4E1F}"/>
+						<State Id="1322290778" Name="M_ViridianForest" ObjectPath="\States\World_States\Zone_State\M_ViridianForest" GUID="{CD5F58E9-9341-471F-A5D3-B3206318C1F3}"/>
+						<State Id="1127321912" Name="N_School" ObjectPath="\States\World_States\Zone_State\N_School" GUID="{AA59692C-0AB6-404C-B7CE-38F1C46B2E35}"/>
+						<State Id="1491759694" Name="O_NatureReserve_Island" ObjectPath="\States\World_States\Zone_State\O_NatureReserve_Island" GUID="{E013561D-3DBE-485E-B1A6-B553685F9423}"/>
+						<State Id="1532058053" Name="P_Asylum_Island" ObjectPath="\States\World_States\Zone_State\P_Asylum_Island" GUID="{B7627D4D-534B-42A7-8745-7ED583DDA160}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="361622075" Name="FootstepSwitch" ObjectPath="\Switches\Player_Switches\FootstepSwitch" GUID="{494A64B9-F66A-49A9-95AC-D8CF9BFC4797}">
+					<Switches>
+						<Switch Id="826104432" Name="BridgeBig" ObjectPath="\Switches\Player_Switches\FootstepSwitch\BridgeBig" GUID="{0E7589C4-11EB-44B4-A353-2D46D56F41D1}"/>
+						<Switch Id="3999594623" Name="BridgeSmall" ObjectPath="\Switches\Player_Switches\FootstepSwitch\BridgeSmall" GUID="{9E50BC7D-1ABF-4745-BB0A-53E936083BB4}"/>
+						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Dirt" GUID="{0CEF3830-A50D-4328-B393-0BA2DAB6616F}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Grass" GUID="{29332CA5-0121-4197-A676-DC1662A061C9}"/>
+						<Switch Id="2927316363" Name="Moss" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Moss" GUID="{EB7A90AD-6F59-4F91-832B-7DADD836EF3C}"/>
+						<Switch Id="712897245" Name="Mud" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Mud" GUID="{122E25BB-D18D-44C3-B7EA-C82CD1C3560B}"/>
+						<Switch Id="268523767" Name="WoodPath" ObjectPath="\Switches\Player_Switches\FootstepSwitch\WoodPath" GUID="{18575032-6326-4D7F-BD01-83CC2AC43291}"/>
+						<Switch Id="3111880208" Name="WoodFloor" ObjectPath="\Switches\Player_Switches\FootstepSwitch\WoodFloor" GUID="{8B6914D3-5944-4A4B-AC2B-6F03DD7BE9CE}"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Tile" GUID="{86166631-6259-43CD-8DEA-C97EA889C2E6}"/>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Concrete" GUID="{32CFECF0-FBE7-4A2D-BE56-A6034135CB72}"/>
+						<Switch Id="627471700" Name="WoodFloorRotten" ObjectPath="\Switches\Player_Switches\FootstepSwitch\WoodFloorRotten" GUID="{6833A451-C23C-4A41-9E71-1402E3A47CD3}"/>
+						<Switch Id="2185786256" Name="Gravel" ObjectPath="\Switches\Player_Switches\FootstepSwitch\Gravel" GUID="{7BDB721E-D2C2-4FCC-A12D-2E30DE92A696}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="3769583171" Language="SFX" Hash="3019115364">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\B_SecretZone1</ObjectPath>
+			<ShortName>B_SecretZone1</ShortName>
+			<Path>B_SecretZone1.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="567810672">
+			<ObjectPath>\SoundBanks\Music_Banks\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2378649527" Name="BPlay_Sandman_Mono_Binaural" ObjectPath="\Events\Music\Music\Binaural\BPlay_Sandman_Mono_Binaural" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="144.141190" DurationMax="144.141190">
+					<IncludedMemoryFiles>
+						<File Id="952424313" Language="SFX">
+							<ShortName>Mr Sandman - Mono.wav</ShortName>
+							<Path>SFX\Mr Sandman - Mono_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="299979518" Name="EarlyReflectionsBus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\EarlyReflectionsBus"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="437979949" Name="BStop_Sandman_Mono_Binaural" ObjectPath="\Events\Music\Music\Binaural\BStop_Sandman_Mono_Binaural" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3523734198" Name="Play_Mr_Sandman___RoomAware" ObjectPath="\Events\Music\Music\Stereo\Play_Mr_Sandman___RoomAware" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="643390073" Language="SFX">
+							<ShortName>Mr Sandman - Mono.wav</ShortName>
+							<Path>SFX\Mr Sandman - Mono_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="299979518" Name="EarlyReflectionsBus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\EarlyReflectionsBus"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="1892595306" Name="Play_Sandman_Mono" ObjectPath="\Events\Music\Music\Stereo\Play_Sandman_Mono" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="144.141190" DurationMax="144.141190">
+					<IncludedMemoryFiles>
+						<File Id="952424313" Language="SFX">
+							<ShortName>Mr Sandman - Mono.wav</ShortName>
+							<Path>SFX\Mr Sandman - Mono_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="299979518" Name="EarlyReflectionsBus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Binaural\EarlyReflectionsBus"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3832904427" Name="Play_Sandman_Stereo" ObjectPath="\Events\Music\Music\Stereo\Play_Sandman_Stereo" DurationType="OneShot" DurationMin="143.869202" DurationMax="143.869202">
+					<IncludedMemoryFiles>
+						<File Id="139556335" Language="SFX">
+							<ShortName>Mr Sandman - Stereo.wav</ShortName>
+							<Path>SFX\Mr Sandman - Stereo_C7267D91.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1895941593" Name="env_Manor_Bathroom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\World_Stereo\zTESTReverb_Environments\env_Manor_Bathroom"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3289786080" Name="Stop_Mr_Sandman___RoomAware" ObjectPath="\Events\Music\Music\Stereo\Stop_Mr_Sandman___RoomAware" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3218835252" Name="Stop_Sandman_Mono" ObjectPath="\Events\Music\Music\Stereo\Stop_Sandman_Mono" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3477306029" Name="Stop_Sandman_Stereo" ObjectPath="\Events\Music\Music\Stereo\Stop_Sandman_Stereo" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="4250780145" Language="SFX" Hash="1494122852">
+			<ObjectPath>\SoundBanks\World_Banks\Zones\L_BackBayou</ObjectPath>
+			<ShortName>L_BackBayou</ShortName>
+			<Path>L_BackBayou.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

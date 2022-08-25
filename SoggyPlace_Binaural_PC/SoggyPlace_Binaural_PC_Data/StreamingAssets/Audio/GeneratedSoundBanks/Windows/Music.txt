@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	437979949	BStop_Sandman_Mono_Binaural			\Music\Music\Binaural\BStop_Sandman_Mono_Binaural	
+	1892595306	Play_Sandman_Mono			\Music\Music\Stereo\Play_Sandman_Mono	
+	2378649527	BPlay_Sandman_Mono_Binaural			\Music\Music\Binaural\BPlay_Sandman_Mono_Binaural	
+	3218835252	Stop_Sandman_Mono			\Music\Music\Stereo\Stop_Sandman_Mono	
+	3289786080	Stop_Mr_Sandman___RoomAware			\Music\Music\Stereo\Stop_Mr_Sandman___RoomAware	
+	3477306029	Stop_Sandman_Stereo			\Music\Music\Stereo\Stop_Sandman_Stereo	
+	3523734198	Play_Mr_Sandman___RoomAware			\Music\Music\Stereo\Play_Mr_Sandman___RoomAware	
+	3832904427	Play_Sandman_Stereo			\Music\Music\Stereo\Play_Sandman_Stereo	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	139556335	Mr Sandman - Stereo	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\Mr Sandman - Stereo_C7267D91.wem		\Actor-Mixer Hierarchy\MusicWorkUnit\Music\Stereo\Mr Sandman - Stereo		1852371
+	643390073	Mr Sandman - RoomAware	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\Mr Sandman - Mono_D79FB2B7.wem		\Actor-Mixer Hierarchy\MusicWorkUnit\Music\Mono\Mr Sandman - RoomAware		13837618
+	952424313	B_Mr Sandman - Mono	E:\2. Thesis_SoggyPlace\zzJJThesisRepository\Thesis_SoggyPlaceUnity\SoggyPlaceTest_WwiseProject\.cache\Windows\SFX\Mr Sandman - Mono_10C4C929.wem		\Actor-Mixer Hierarchy\MusicWorkUnit\Music\Binaural\B_Mr Sandman - Mono		13837618
+
